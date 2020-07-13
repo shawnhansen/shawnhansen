@@ -5,5 +5,3 @@ I am the Director of Ecommerce at Jeske Hardware Distributors and Full stack Dev
 - 💻 Working as a **Director of Ecommerce** at [Jeske Hardware Distributors](https://www.jeskehardware.com).
 - ☀️ Building ecommerce sites and applications
 - ✍️ Learning data analytics for sales decisions
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=shawnhansen&show_icons=true)
